@@ -1,0 +1,31 @@
+[1.851s] Invoking command in '/home/nano/r20_ws/build/snail_bottle_approach': PS1=(snail-bottle) PYTHONPATH=/home/nano/r20_ws/build/snail_bottle_approach/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_bottle_approach/build --no-deps symlink_data
+[2.401s] running develop
+[2.745s] running egg_info
+[2.746s] creating snail_bottle_approach.egg-info
+[2.746s] writing snail_bottle_approach.egg-info/PKG-INFO
+[2.746s] writing dependency_links to snail_bottle_approach.egg-info/dependency_links.txt
+[2.746s] writing entry points to snail_bottle_approach.egg-info/entry_points.txt
+[2.747s] writing requirements to snail_bottle_approach.egg-info/requires.txt
+[2.747s] writing top-level names to snail_bottle_approach.egg-info/top_level.txt
+[2.747s] writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+[2.750s] reading manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+[2.751s] writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+[2.756s] running build_ext
+[2.756s] Creating /home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages/snail-bottle-approach.egg-link (link to .)
+[2.758s] Installing bottle_approach script to /home/nano/r20_ws/install/snail_bottle_approach/lib/snail_bottle_approach
+[2.759s] 
+[2.759s] Installed /home/nano/r20_ws/build/snail_bottle_approach
+[2.759s] running symlink_data
+[2.759s] creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index
+[2.760s] creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index
+[2.760s] creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index/packages
+[2.760s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/resource/snail_bottle_approach -> /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index/packages
+[2.760s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/package.xml -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+[2.760s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/README.md -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+[2.760s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/requirements-jetson.txt -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+[2.760s] creating /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/launch
+[2.761s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/launch/bottle.launch.py -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/launch
+[2.761s] creating /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts
+[2.761s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/scripts/prepare_bottle_model.py -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts
+[2.761s] symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/scripts/setup_jetson.sh -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts
+[2.842s] Invoked command in '/home/nano/r20_ws/build/snail_bottle_approach' returned '0': PS1=(snail-bottle) PYTHONPATH=/home/nano/r20_ws/build/snail_bottle_approach/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_bottle_approach/build --no-deps symlink_data

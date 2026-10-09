@@ -1,0 +1,19 @@
+[2.047s] Invoking command in '/home/nano/r20_ws/build/snail_hardware': PS1=(snail-bottle) PYTHONPATH=/home/nano/r20_ws/build/snail_hardware/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_hardware/build --no-deps symlink_data
+[2.609s] running develop
+[2.942s] running egg_info
+[2.943s] writing snail_hardware.egg-info/PKG-INFO
+[2.943s] writing dependency_links to snail_hardware.egg-info/dependency_links.txt
+[2.944s] writing entry points to snail_hardware.egg-info/entry_points.txt
+[2.944s] writing requirements to snail_hardware.egg-info/requires.txt
+[2.944s] writing top-level names to snail_hardware.egg-info/top_level.txt
+[2.948s] reading manifest file 'snail_hardware.egg-info/SOURCES.txt'
+[2.963s] writing manifest file 'snail_hardware.egg-info/SOURCES.txt'
+[2.965s] running build_ext
+[2.965s] Creating /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail-hardware.egg-link (link to .)
+[2.967s] Installing r20_base_driver script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[2.967s] Installing r20_keyboard script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[2.968s] Installing r20_serial_probe script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[2.968s] 
+[2.968s] Installed /home/nano/r20_ws/build/snail_hardware
+[2.968s] running symlink_data
+[3.057s] Invoked command in '/home/nano/r20_ws/build/snail_hardware' returned '0': PS1=(snail-bottle) PYTHONPATH=/home/nano/r20_ws/build/snail_hardware/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_hardware/build --no-deps symlink_data

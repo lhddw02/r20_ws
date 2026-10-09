@@ -1,0 +1,60 @@
+[1.341s] Invoking command in '/home/nano/r20_ws/src/snail_hardware': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nano/r20_ws/build/snail_hardware/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/snail_hardware build --build-base /home/nano/r20_ws/build/snail_hardware/build install --record /home/nano/r20_ws/build/snail_hardware/install.log --install-scripts $base/lib/snail_hardware --single-version-externally-managed install_data
+[1.832s] running egg_info
+[1.833s] creating ../../build/snail_hardware/snail_hardware.egg-info
+[1.833s] writing ../../build/snail_hardware/snail_hardware.egg-info/PKG-INFO
+[1.834s] writing dependency_links to ../../build/snail_hardware/snail_hardware.egg-info/dependency_links.txt
+[1.834s] writing entry points to ../../build/snail_hardware/snail_hardware.egg-info/entry_points.txt
+[1.834s] writing requirements to ../../build/snail_hardware/snail_hardware.egg-info/requires.txt
+[1.835s] writing top-level names to ../../build/snail_hardware/snail_hardware.egg-info/top_level.txt
+[1.835s] writing manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+[1.839s] reading manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+[1.844s] writing manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+[1.845s] running build
+[1.845s] running build_py
+[1.846s] creating /home/nano/r20_ws/build/snail_hardware/build
+[1.846s] creating /home/nano/r20_ws/build/snail_hardware/build/lib
+[1.846s] creating /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/keyboard_policy.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/serial_io.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/protocol.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/serial_probe.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/keyboard.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.847s] copying snail_hardware/command_guard.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.848s] copying snail_hardware/base_driver.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.848s] copying snail_hardware/__init__.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+[1.848s] running install
+[1.849s] running install_lib
+[1.850s] creating /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.851s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/keyboard_policy.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.852s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/serial_io.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.852s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/protocol.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.853s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/serial_probe.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.853s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/keyboard.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.854s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/command_guard.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.854s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/base_driver.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.854s] copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/__init__.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+[1.855s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/keyboard_policy.py to keyboard_policy.cpython-310.pyc
+[1.857s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/serial_io.py to serial_io.cpython-310.pyc
+[1.858s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/protocol.py to protocol.cpython-310.pyc
+[1.861s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/serial_probe.py to serial_probe.cpython-310.pyc
+[1.862s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/keyboard.py to keyboard.cpython-310.pyc
+[1.865s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/command_guard.py to command_guard.cpython-310.pyc
+[1.866s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/base_driver.py to base_driver.cpython-310.pyc
+[1.870s] byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/__init__.py to __init__.cpython-310.pyc
+[1.870s] running install_data
+[1.871s] creating /home/nano/r20_ws/install/snail_hardware/share/ament_index
+[1.874s] creating /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index
+[1.875s] creating /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index/packages
+[1.875s] copying resource/snail_hardware -> /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index/packages
+[1.875s] copying package.xml -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware
+[1.879s] copying README.md -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware
+[1.880s] creating /home/nano/r20_ws/install/snail_hardware/share/snail_hardware/launch
+[1.880s] copying launch/keyboard.launch.py -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware/launch
+[1.880s] running install_egg_info
+[1.880s] Copying ../../build/snail_hardware/snail_hardware.egg-info to /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware-0.1.0-py3.10.egg-info
+[1.880s] running install_scripts
+[1.926s] Installing r20_base_driver script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[1.926s] Installing r20_keyboard script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[1.926s] Installing r20_serial_probe script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+[1.926s] writing list of installed files to '/home/nano/r20_ws/build/snail_hardware/install.log'
+[2.015s] Invoked command in '/home/nano/r20_ws/src/snail_hardware' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nano/r20_ws/build/snail_hardware/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/snail_hardware build --build-base /home/nano/r20_ws/build/snail_hardware/build install --record /home/nano/r20_ws/build/snail_hardware/install.log --install-scripts $base/lib/snail_hardware --single-version-externally-managed install_data

@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing snail_bottle_approach.egg-info/PKG-INFO
+writing dependency_links to snail_bottle_approach.egg-info/dependency_links.txt
+writing entry points to snail_bottle_approach.egg-info/entry_points.txt
+writing requirements to snail_bottle_approach.egg-info/requires.txt
+writing top-level names to snail_bottle_approach.egg-info/top_level.txt
+reading manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages/snail-bottle-approach.egg-link (link to .)
+Installing bottle_approach script to /home/nano/r20_ws/install/snail_bottle_approach/lib/snail_bottle_approach
+
+Installed /home/nano/r20_ws/build/snail_bottle_approach
+running symlink_data

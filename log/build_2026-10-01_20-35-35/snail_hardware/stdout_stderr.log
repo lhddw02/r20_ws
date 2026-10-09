@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing snail_hardware.egg-info/PKG-INFO
+writing dependency_links to snail_hardware.egg-info/dependency_links.txt
+writing entry points to snail_hardware.egg-info/entry_points.txt
+writing requirements to snail_hardware.egg-info/requires.txt
+writing top-level names to snail_hardware.egg-info/top_level.txt
+reading manifest file 'snail_hardware.egg-info/SOURCES.txt'
+writing manifest file 'snail_hardware.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail-hardware.egg-link (link to .)
+Installing r20_base_driver script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+Installing r20_keyboard script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+Installing r20_serial_probe script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+
+Installed /home/nano/r20_ws/build/snail_hardware
+running symlink_data

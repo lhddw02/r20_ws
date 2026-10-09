@@ -1,0 +1,17 @@
+[1.880s] Invoking command in '/home/nano/r20_ws/build/snail_bottle_approach': AMENT_PREFIX_PATH=/home/nano/r20_ws/install/snail_hardware:${AMENT_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) PS1=(snail-bottle) (base) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/nano/r20_ws/build/snail_bottle_approach/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages:/home/nano/r20_ws/build/snail_hardware:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_bottle_approach/build --no-deps symlink_data
+[2.383s] running develop
+[2.724s] running egg_info
+[2.725s] writing snail_bottle_approach.egg-info/PKG-INFO
+[2.725s] writing dependency_links to snail_bottle_approach.egg-info/dependency_links.txt
+[2.725s] writing entry points to snail_bottle_approach.egg-info/entry_points.txt
+[2.726s] writing requirements to snail_bottle_approach.egg-info/requires.txt
+[2.726s] writing top-level names to snail_bottle_approach.egg-info/top_level.txt
+[2.730s] reading manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+[2.745s] writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+[2.748s] running build_ext
+[2.748s] Creating /home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages/snail-bottle-approach.egg-link (link to .)
+[2.749s] Installing bottle_approach script to /home/nano/r20_ws/install/snail_bottle_approach/lib/snail_bottle_approach
+[2.750s] 
+[2.750s] Installed /home/nano/r20_ws/build/snail_bottle_approach
+[2.750s] running symlink_data
+[2.829s] Invoked command in '/home/nano/r20_ws/build/snail_bottle_approach' returned '0': AMENT_PREFIX_PATH=/home/nano/r20_ws/install/snail_hardware:${AMENT_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) PS1=(snail-bottle) (base) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/nano/r20_ws/build/snail_bottle_approach/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages:/home/nano/r20_ws/build/snail_hardware:/home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(snail-bottle) /home/nano/.venvs/snail-bottle/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nano/r20_ws/build/snail_bottle_approach/build --no-deps symlink_data

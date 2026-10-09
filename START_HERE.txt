@@ -1,0 +1,6 @@
+On Jetson Ubuntu 22.04 / ROS Humble:
+1. unzip this archive into ~/r20_ws
+2. bash ~/r20_ws/src/snail_bottle_approach/scripts/setup_jetson.sh ~/r20_ws
+3. Follow ~/r20_ws/src/snail_bottle_approach/README.md; first test enable_motion:=false.
+Default stop distance: 0.40 m from the forward-facing camera.
+The model detects generic bottles; validate real depth on your bottle before driving.

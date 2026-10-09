@@ -1,0 +1,9 @@
+Stop the old bottle launch on Jetson.
+unzip -o ~/r20-bottle-timing-update.zip -d ~/r20_ws
+source ~/.venvs/snail-bottle/bin/activate
+source /opt/ros/humble/setup.bash
+cd ~/r20_ws
+python /usr/bin/colcon build --symlink-install --packages-select snail_bottle_approach
+source install/setup.bash
+Restart the same launch. The .50 s freshness deadline is unchanged.
+If commands remain zero, send full /bottle_approach/status output including new timing fields.

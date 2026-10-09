@@ -1,0 +1,1 @@
+/home/nano/r20_ws/build/snail_bottle_approach/scripts/prepare_bottle_model.py

@@ -1,0 +1,17 @@
+[1m============================= test session starts ==============================[0m
+platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+cachedir: /home/nano/r20_ws/build/snail_hardware/.pytest_cache
+rootdir: /home/nano/r20_ws/src/snail_hardware
+plugins: launch-testing-1.0.15, ament-lint-0.12.15, ament-pep257-0.12.15, ament-xmllint-0.12.15, ament-flake8-0.12.15, ament-copyright-0.12.15, launch-testing-ros-0.19.14, colcon-core-0.21.2, cov-3.0.0
+[1mcollecting ... [0m[1m
+collecting 0 items                                                             [0m[1m
+collected 41 items                                                             [0m
+
+test/test_command_guard.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                        [ 14%][0m
+test/test_keyboard.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                        [ 41%][0m
+test/test_protocol.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                               [ 90%][0m
+test/test_ros_keyboard.py [32m.[0m[32m                                              [ 92%][0m
+test/test_ros_serial.py [32m.[0m[32m.[0m[32m.[0m[32m                                              [100%][0m
+
+---- generated xml file: /home/nano/r20_ws/build/snail_hardware/pytest.xml -----
+[32m============================== [32m[1m41 passed[0m[32m in 6.10s[0m[32m ==============================[0m

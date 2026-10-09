@@ -1,0 +1,58 @@
+running egg_info
+creating ../../build/snail_hardware/snail_hardware.egg-info
+writing ../../build/snail_hardware/snail_hardware.egg-info/PKG-INFO
+writing dependency_links to ../../build/snail_hardware/snail_hardware.egg-info/dependency_links.txt
+writing entry points to ../../build/snail_hardware/snail_hardware.egg-info/entry_points.txt
+writing requirements to ../../build/snail_hardware/snail_hardware.egg-info/requires.txt
+writing top-level names to ../../build/snail_hardware/snail_hardware.egg-info/top_level.txt
+writing manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+reading manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+writing manifest file '../../build/snail_hardware/snail_hardware.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nano/r20_ws/build/snail_hardware/build
+creating /home/nano/r20_ws/build/snail_hardware/build/lib
+creating /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/keyboard_policy.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/serial_io.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/protocol.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/serial_probe.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/keyboard.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/command_guard.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/base_driver.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+copying snail_hardware/__init__.py -> /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware
+running install
+running install_lib
+creating /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/keyboard_policy.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/serial_io.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/protocol.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/serial_probe.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/keyboard.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/command_guard.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/base_driver.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+copying /home/nano/r20_ws/build/snail_hardware/build/lib/snail_hardware/__init__.py -> /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/keyboard_policy.py to keyboard_policy.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/serial_io.py to serial_io.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/protocol.py to protocol.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/serial_probe.py to serial_probe.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/keyboard.py to keyboard.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/command_guard.py to command_guard.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/base_driver.py to base_driver.cpython-310.pyc
+byte-compiling /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/nano/r20_ws/install/snail_hardware/share/ament_index
+creating /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index
+creating /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index/packages
+copying resource/snail_hardware -> /home/nano/r20_ws/install/snail_hardware/share/ament_index/resource_index/packages
+copying package.xml -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware
+copying README.md -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware
+creating /home/nano/r20_ws/install/snail_hardware/share/snail_hardware/launch
+copying launch/keyboard.launch.py -> /home/nano/r20_ws/install/snail_hardware/share/snail_hardware/launch
+running install_egg_info
+Copying ../../build/snail_hardware/snail_hardware.egg-info to /home/nano/r20_ws/install/snail_hardware/lib/python3.10/site-packages/snail_hardware-0.1.0-py3.10.egg-info
+running install_scripts
+Installing r20_base_driver script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+Installing r20_keyboard script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+Installing r20_serial_probe script to /home/nano/r20_ws/install/snail_hardware/lib/snail_hardware
+writing list of installed files to '/home/nano/r20_ws/build/snail_hardware/install.log'

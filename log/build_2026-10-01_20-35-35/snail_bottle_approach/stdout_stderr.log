@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating snail_bottle_approach.egg-info
+writing snail_bottle_approach.egg-info/PKG-INFO
+writing dependency_links to snail_bottle_approach.egg-info/dependency_links.txt
+writing entry points to snail_bottle_approach.egg-info/entry_points.txt
+writing requirements to snail_bottle_approach.egg-info/requires.txt
+writing top-level names to snail_bottle_approach.egg-info/top_level.txt
+writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+reading manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+writing manifest file 'snail_bottle_approach.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nano/r20_ws/install/snail_bottle_approach/lib/python3.10/site-packages/snail-bottle-approach.egg-link (link to .)
+Installing bottle_approach script to /home/nano/r20_ws/install/snail_bottle_approach/lib/snail_bottle_approach
+
+Installed /home/nano/r20_ws/build/snail_bottle_approach
+running symlink_data
+creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index
+creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index
+creating /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index/packages
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/resource/snail_bottle_approach -> /home/nano/r20_ws/install/snail_bottle_approach/share/ament_index/resource_index/packages
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/package.xml -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/README.md -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/requirements-jetson.txt -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach
+creating /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/launch
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/launch/bottle.launch.py -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/launch
+creating /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/scripts/prepare_bottle_model.py -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts
+symbolically linking /home/nano/r20_ws/build/snail_bottle_approach/scripts/setup_jetson.sh -> /home/nano/r20_ws/install/snail_bottle_approach/share/snail_bottle_approach/scripts

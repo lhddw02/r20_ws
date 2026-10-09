@@ -1,0 +1,9 @@
+source;share/snail_bottle_approach/hook/pythonpath.ps1
+source;share/snail_bottle_approach/hook/pythonpath.dsv
+source;share/snail_bottle_approach/hook/pythonpath.sh
+source;share/snail_bottle_approach/hook/ament_prefix_path.ps1
+source;share/snail_bottle_approach/hook/ament_prefix_path.dsv
+source;share/snail_bottle_approach/hook/ament_prefix_path.sh
+source;../../build/snail_bottle_approach/share/snail_bottle_approach/hook/pythonpath_develop.ps1
+source;../../build/snail_bottle_approach/share/snail_bottle_approach/hook/pythonpath_develop.dsv
+source;../../build/snail_bottle_approach/share/snail_bottle_approach/hook/pythonpath_develop.sh

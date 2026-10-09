@@ -1,0 +1,3 @@
+[console_scripts]
+bottle_approach = snail_bottle_approach.node:main
+

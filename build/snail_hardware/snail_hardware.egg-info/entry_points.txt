@@ -1,0 +1,5 @@
+[console_scripts]
+r20_base_driver = snail_hardware.base_driver:main
+r20_keyboard = snail_hardware.keyboard:main
+r20_serial_probe = snail_hardware.serial_probe:main
+

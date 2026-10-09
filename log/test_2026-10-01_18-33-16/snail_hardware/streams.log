@@ -1,0 +1,19 @@
+[0.571s] Invoking command in '/home/nano/r20_ws/src/snail_hardware': CONDA_PROMPT_MODIFIER=(base) PYTEST_ADDOPTS=--tb=short --junit-xml=/home/nano/r20_ws/build/snail_hardware/pytest.xml --junit-prefix=snail_hardware -o cache_dir=/home/nano/r20_ws/build/snail_hardware/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest
+[1.537s] [1m============================= test session starts ==============================[0m
+[1.538s] platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[1.547s] cachedir: /home/nano/r20_ws/build/snail_hardware/.pytest_cache
+[1.547s] rootdir: /home/nano/r20_ws/src/snail_hardware
+[1.548s] plugins: launch-testing-1.0.15, ament-lint-0.12.15, ament-pep257-0.12.15, ament-xmllint-0.12.15, ament-flake8-0.12.15, ament-copyright-0.12.15, launch-testing-ros-0.19.14, colcon-core-0.21.2, cov-3.0.0
+[3.041s] [1mcollecting ... [0m[1m
+[3.073s] collecting 0 items                                                             [0m[1m
+[3.073s] collected 41 items                                                             [0m
+[3.074s] 
+[3.093s] test/test_command_guard.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                        [ 14%][0m
+[3.114s] test/test_keyboard.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                        [ 41%][0m
+[3.157s] test/test_protocol.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                               [ 90%][0m
+[4.411s] test/test_ros_keyboard.py [32m.[0m[32m                                              [ 92%][0m
+[7.632s] test/test_ros_serial.py [32m.[0m[32m.[0m[32m.[0m[32m                                              [100%][0m
+[7.633s] 
+[7.633s] ---- generated xml file: /home/nano/r20_ws/build/snail_hardware/pytest.xml -----
+[7.633s] [32m============================== [32m[1m41 passed[0m[32m in 6.10s[0m[32m ==============================[0m
+[8.034s] Invoked command in '/home/nano/r20_ws/src/snail_hardware' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTEST_ADDOPTS=--tb=short --junit-xml=/home/nano/r20_ws/build/snail_hardware/pytest.xml --junit-prefix=snail_hardware -o cache_dir=/home/nano/r20_ws/build/snail_hardware/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest
